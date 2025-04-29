@@ -5,14 +5,14 @@ function getConfiguration(config)
 
 function getEndpoints(deviceAddress, endpoints)
 {
-  endpoints.addEndpoint("1", "Temperature sensor", endpointType.temperatureSensor);
-  endpoints.addEndpoint("2", "Humidity sensor", endpointType.humiditySensor);
-  endpoints.addEndpoint("3", "CO₂ sensor", endpointType.ppmConcentrationSensor, ppmConcentrationSensorSubType.carbonDioxide);
-  endpoints.addEndpoint("4", "PM 1.0", endpointType.mvConcentrationSensor);
-  endpoints.addEndpoint("5", "PM 2.5", endpointType.mvConcentrationSensor, mvConcentrationSensorSubType.pm2_5);
-  endpoints.addEndpoint("6", "PM 10", endpointType.mvConcentrationSensor, mvConcentrationSensorSubType.pm10);
-  endpoints.addEndpoint("7", "TVOC sensor", endpointType.ppmConcentrationSensor, ppmConcentrationSensorSubType.voc);
-  endpoints.addEndpoint("8", "AQI", endpointType.airQualityIndexSensor);
+        endpoints.addEndpoint("1", "Temperature sensor", endpointType.temperatureSensor);
+        endpoints.addEndpoint("2", "Humidity sensor", endpointType.humiditySensor);
+        endpoints.addEndpoint("3", "CO₂ sensor", endpointType.ppmConcentrationSensor, ppmConcentrationSensorSubType.carbonDioxide);
+        endpoints.addEndpoint("4", "PM 1.0", endpointType.mvConcentrationSensor);
+        endpoints.addEndpoint("5", "PM 2.5", endpointType.mvConcentrationSensor, mvConcentrationSensorSubType.pm2_5);
+        endpoints.addEndpoint("6", "PM 10", endpointType.mvConcentrationSensor, mvConcentrationSensorSubType.pm10);
+        endpoints.addEndpoint("7", "TVOC sensor", endpointType.ppmConcentrationSensor, ppmConcentrationSensorSubType.voc);
+        endpoints.addEndpoint("8", "AQI", endpointType.airQualityIndexSensor);
 }
 
 /*function validateDeviceAddress(address, result)
