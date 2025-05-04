@@ -1,11 +1,11 @@
 
-# Parsing + Configuration Script – SENSO8 NB-IoT IAQ - Rev. A
+# Configuration Script – SENSO8 NB-IoT IAQ - Rev. A
 
-This **Parsing + Configuration** script is designed for the **SENSO8 NB-IoT IAQ** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Configuration** script is designed for the **SENSO8 NB-IoT IAQ** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing + Configuration
+- **Type**: Configuration
 
 ## ⚙️ Description
 
@@ -23,17 +23,17 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 - [Gear Studio Documentation – Data Processing](https://wiki.cloud.studio/es/page/200)
 - [Cloud Studio Official Website](https://www.cloud.studio/)
-- [@DarkSylver](https://github.com/DarkSylver)
+- [Cristian M. Zangaro](https://github.com/DarkSylver)
 
 ---
 
-# Script de Parsing + Configuration – SENSO8 NB-IoT IAQ Rev. A
+# Script de Configuration – SENSO8 NB-IoT IAQ Rev. A
 
-Este script de **Parsing + Configuration** está diseñado para el modelo **SENSO8 NB-IoT IAQ** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Configuration** está diseñado para el modelo **SENSO8 NB-IoT IAQ** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing + Configuration
+- **Tipo**: Configuration
 
 ## ⚙️ Descripción
 
@@ -51,4 +51,4 @@ Estas funciones permiten capacidades de integración extendidas en Cloud Studio,
 
 - [Documentación de Gear Studio – Procesamiento de Datos](https://wiki.cloud.studio/es/page/200)
 - [Sitio Oficial de Cloud Studio](https://www.cloud.studio/)
-- [@DarkSylver](https://github.com/DarkSylver)
+- [Cristian M. Zangaro](https://github.com/DarkSylver)
